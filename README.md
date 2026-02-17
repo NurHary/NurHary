@@ -1,6 +1,7 @@
 ## Nur Hary
-Just A Junior Game Developer Mainly Using C (currently still using rust because of one project T_T),\n
-Still Learning.
+Just A Junior Solo Game Developer Mainly Using C (currently still using rust because of one project T_T),
+
+Still Learning...
 
 Thing I Do, Want To Make, and Learn:
 -  Game Engine
